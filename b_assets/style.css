@@ -75,11 +75,14 @@ b{
     font-weight: 600;
 }
 .paloadr{
-	height: 100vh;
+	min-height: 100vh;
 	background: #000000d5;
 	position: relative;
 	display: flex; 
 	justify-content: center;
+	width: 100%;
+	height:100%;
+	overflow: hidden;
 	align-items: center;
 }
 .paloadr::before{
