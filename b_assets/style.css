@@ -953,6 +953,9 @@ section.top_contain{
 	.header_link a {
 		opacity: 0;
 	}
+	.header_link li{
+	    text-align: center;
+	}
 	.rigth_block{
 		margin-bottom: 30px;
 	}
